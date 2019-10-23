@@ -1,3 +1,3 @@
 .vscode
-.pytest_cashe
+.pytest_cache
 *.log
